@@ -1,7 +1,5 @@
 #include "List.h"
 
-
-
 List::Node * List::find(const size_t idx)
 {
 	Node * node = first;
