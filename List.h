@@ -1,5 +1,3 @@
-// Adam Geppert, Piotr Bodnar AiR Grupa 7
-
 #pragma once
 #include <vector>
 #include "Point.h"
